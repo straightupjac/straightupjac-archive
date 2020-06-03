@@ -633,6 +633,15 @@ ol {
 }
 
 /*---------------------
+	Skills Section
+-----------------------*/
+
+.skills-section{
+	background: #F4F8F6;
+}
+
+
+/*---------------------
 	Contact section
 -----------------------*/
 .contact-form {
