@@ -1,2 +1,2 @@
 # straightupjac.github.io
-#jaclynchan.me
+jaclynchan.me
