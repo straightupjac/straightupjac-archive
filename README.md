@@ -1,2 +1,3 @@
 # straightupjac.github.io
-jaclynchan.me
+outdated website visit jaclynchan.me
+
